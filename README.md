@@ -1,5 +1,5 @@
 # the list:
-- [ ] cf TachyHud (custom hud)
+- [ ] port darhud to cf
 - [ ] cf particle mod (gotta remake old "concept")
 - [ ] tboi mod (characters mainly)
 - [ ] tmodloader mod (probably just vanity)
